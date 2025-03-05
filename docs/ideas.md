@@ -13,7 +13,7 @@ SmarList es una aplicación que permite a los usuarios crear listas de compras m
 
 ## Idea 2: EasyTask
 
-EasyTask es una aplicación diseñada para ayudar a los estudiantes a organizar y gestionar de manera más eficiente sus tareas, proyectos y exámenes. La aplicación tiene opciones como establecer recordatorios, categorizar cada tarea por materias o prioridad y organizar un calendario personalizado, posibilitando la sincronización con Google Calendar si así se desea.
+EasyTask es una aplicación diseñada para ayudar a los estudiantes a organizar y gestionar de manera más eficiente sus tareas, proyectos y exámenes. La aplicación tiene opciones como establecer recordatorios, categorizar cada tarea por materias o prioridad y organizar un calendario personalizado dentro de la app.
 
 ### Aplicaciones similares:
 
